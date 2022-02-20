@@ -17,16 +17,17 @@
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
-<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=PlayGuitar-CoderQ&show_icons=true&hide_border=true&theme=vue-dark" />
 
-
-- :office: &nbsp;我目前在 **[中国广东]工作**
+- :office: &nbsp;目前在中国广场从事前端开发的工作
 - :seedling: &nbsp;一直努力的往优秀前端工程师发展
 - :speech_balloon: &nbsp;我喜欢探讨任何技术类的问题不局限于前端方向。
 - :mailbox: &nbsp;可以在我的邮箱上给我留言 coderq@qq.com | coderqzj@gmail.com
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=PlayGuitar-CoderQ&show_icons=true&hide_border=true&theme=vue-dark" />
+
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlayGuitar-CoderQ&theme=blueberry ) ](https://git.io/streak-stats)
 
