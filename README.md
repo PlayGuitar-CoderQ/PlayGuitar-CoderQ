@@ -71,5 +71,6 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif dark](https://github.com/PlayGuitar-CoderQ/PlayGuitar-CoderQ/blob/output/github-contribution-grid-snake.gif)
+
+![GitHub Snake dark](https://github.com/PlayGuitar-CoderQ/PlayGuitar-CoderQ/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
