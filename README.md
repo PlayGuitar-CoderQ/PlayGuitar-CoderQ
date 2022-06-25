@@ -67,3 +67,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlayGuitar-CoderQ&theme=blueberry) ](https://git.io/streak-stats)
 
 <br>
+
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+![snake gif dark](https://github.com/PlayGuitar-CoderQ/PlayGuitar-CoderQ/blob/output/github-contribution-grid-snake.gif)
+
