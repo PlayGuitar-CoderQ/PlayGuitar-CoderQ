@@ -1,4 +1,4 @@
-![svg](https://raw.githubusercontent.com/PlayGuitar-CoderQ/PlayGuitar-CoderQ/f67adb8c6090460a055919da6798137d7a983a91/profile-3d-contrib/profile-night-rainbow.svg)
+![svg](https://github.com/PlayGuitar-CoderQ/PlayGuitar-CoderQ/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=PlayGuitar-CoderQ&height=150&fontSize=60&desc=弹吉他的CoderQ&descAlignY=75&descAlign=60)
 
